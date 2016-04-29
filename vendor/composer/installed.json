@@ -1,0 +1,28 @@
+[
+    {
+        "name": "net-shell/mw-ink",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/net-shell/CustomTShirt.git",
+            "reference": "93fde49f550e9d3fafb018a16a559fb1a18ad72f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/net-shell/CustomTShirt/zipball/93fde49f550e9d3fafb018a16a559fb1a18ad72f",
+            "reference": "93fde49f550e9d3fafb018a16a559fb1a18ad72f",
+            "shasum": ""
+        },
+        "time": "2016-04-29 15:02:33",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "ash",
+                "email": "ash@microweber.com"
+            }
+        ]
+    }
+]
