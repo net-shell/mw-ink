@@ -1,3 +1,5 @@
+<h3>INK</h3>
+
 <link rel="stylesheet" href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/jquery.miniColors.css" />
 <link href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/bootstrap.min.css" rel="stylesheet">
 <link href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/bootstrap-responsive.min.css" rel="stylesheet">
