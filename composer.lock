@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "d8c8ad78e010e0319b52fa5d1688c91c",
+    "content-hash": "22a8dac30a9e3fbfa886ea4a47312054",
+    "packages": [
+        {
+            "name": "net-shell/mw-ink",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/net-shell/CustomTShirt.git",
+                "reference": "93fde49f550e9d3fafb018a16a559fb1a18ad72f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/net-shell/CustomTShirt/zipball/93fde49f550e9d3fafb018a16a559fb1a18ad72f",
+                "reference": "93fde49f550e9d3fafb018a16a559fb1a18ad72f",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "ash",
+                    "email": "ash@microweber.com"
+                }
+            ],
+            "time": "2016-04-29 15:02:33"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "net-shell/mw-ink": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

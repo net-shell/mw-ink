@@ -1,0 +1,13 @@
+{
+    "name": "ash/mw-ink",
+    "description": "Printing materials editor module",
+    "authors": [
+        {
+            "name": "ash",
+            "email": "ash@microweber.com"
+        }
+    ],
+    "require": {
+        "net-shell/mw-ink": "dev-master"
+    }
+}
