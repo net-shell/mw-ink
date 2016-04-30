@@ -7,5 +7,5 @@ $config = array(
 	'ui' => true,
 	'ui_admin' => true,
 	'position' => "4",
-	'version' => "0.0.1"
+	'version' => "0.0.2"
 );

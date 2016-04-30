@@ -1,9 +1,5 @@
 <div class="container">
 	<section id="typography">
-		<div class="page-header">
-		<h1>Customize T-Shirt</h1>
-		</div>
-	
 		<!-- Headings & Paragraph Copy -->
 		<div class="row">			
 		<div class="span3">
