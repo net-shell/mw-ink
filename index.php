@@ -1,8 +1,6 @@
 <h3>INK</h3>
 
-<link href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/jquery.miniColors.css" rel="stylesheet" />
-<link href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/bootstrap.min.css" rel="stylesheet">
-<link href="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="<?php print $config['url_to_module']; ?>dist/styles.css" rel="stylesheet">
 
 <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
 <!--[if lt IE 9]>
@@ -10,9 +8,7 @@
 <![endif]-->
 <!--[if IE]><script type="text/javascript" src="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/js/excanvas.js"></script><![endif]-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>	
-<script type="text/javascript" src="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/js/fabric.js"></script>
-<script type="text/javascript" src="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/js/tshirtEditor.js"></script>
-<script type="text/javascript" src="<?php print $config['url_to_module']; ?>vendor/net-shell/mw-ink/js/jquery.miniColors.min.js"></script>
+<script type="text/javascript" src="<?php print $config['url_to_module']; ?>dist/ui.js"></script>
 
 <style type="text/css">
 .footer {
