@@ -1,4 +1,6 @@
-<h3>INK</h3>
+<div class="edit">
+	<h3>INK</h3>
+</div>
 
 <link href="<?php print $config['url_to_module']; ?>dist/styles.css" rel="stylesheet">
 

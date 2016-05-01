@@ -4,9 +4,11 @@
 		<div class="row">			
 		<div class="span3">
 			
-			<div class="tabbable"> <!-- Only required for left/right tabs -->
+			<div class="tabbable edit"> <!-- Only required for left/right tabs -->
 				<ul class="nav nav-tabs">
-				<li class="active"><a href="#tab1" data-toggle="tab">T-Shirt Options</a></li>				    
+				<li class="active">
+					<a href="#tab1" data-toggle="tab">T-Shirt Options</a>
+				</li>
 				<li><a href="#tab2" data-toggle="tab">Gravatar</a></li>
 				</ul>
 				<div class="tab-content">
@@ -125,7 +127,9 @@
 	
 		<div class="span3">
 			<div class="well">
-			<h3>Total Prices</h3>
+				<div class="edit">
+					<h3>Total Prices</h3>
+				</div>
 				<p>
 				<table class="table">
 					<tr>
